@@ -1,9 +1,5 @@
 # Fork
 Fork est une marque de vêtements qui célèbre l'individualité avec des designs uniques et de haute qualité. Inspirée par l'énergie urbaine, Fork propose des pièces modernes et audacieuses pour ceux qui veulent affirmer leur style. Chaque collection est pensée pour s’adapter à toutes les personnalités avec authenticité et originalité.
-# Writing the basic structure for a website with HTML, CSS, and JavaScript files.
-# Creating a zip file to provide the user with a downloadable package of the website files.
-
-from zipfile import ZipFile
 
 # Define file structure and basic content for the site
 site_structure = {
